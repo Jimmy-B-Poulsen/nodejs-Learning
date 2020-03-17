@@ -1,3 +1,3 @@
-var counter = require('./counter')
+var stuff = require('./stuff')
 
-console.log(counter(['num1', 'num2','num3']))
+console.log(stuff.counter(['num1', 'num2','num3']))
